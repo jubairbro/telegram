@@ -17,7 +17,7 @@ Choose one of the methods below to install the toolkit on your system (Termux re
 This single command will automatically install all dependencies, clone the repository, and set up the tool for you. Just copy and paste it into your Termux terminal.
 
 ```termux
-bash <(curl -s [https://raw.githubusercontent.com/jubairbro/telegram/main/install.sh](https://raw.githubusercontent.com/jubairbro/telegram/main/install.sh))
+bash <(curl -s https://raw.githubusercontent.com/jubairbro/telegram/main/install.sh)
 ```
 
 ### Method 2: Manual Installation
@@ -25,7 +25,7 @@ If you prefer to install step-by-step, follow these commands.
 
 1.  **Install dependencies and clone the repo:**
     ```termux
-    pkg install git python && git clone [https://github.com/jubairbro/telegram.git](https://github.com/jubairbro/telegram.git) && cd telegram
+    pkg install git python && git clone https://github.com/jubairbro/telegram.git && cd telegram
     ```
 2.  **Install Python libraries:**
     ```termux
