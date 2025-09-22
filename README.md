@@ -7,7 +7,7 @@ A powerful, all-in-one command-line toolkit for managing and automating your Tel
 
 ---
 
-![Tool Screenshot](screenshot/screenshot.png)
+![Tool Screenshot](https://raw.githubusercontent.com/jubairbro/telegram/refs/heads/main/screenshot/Screenshot_20250922_170936.jpg)
 
 ## 🚀 Installation
 
