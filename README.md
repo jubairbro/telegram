@@ -33,7 +33,8 @@ If you prefer to install step-by-step, follow these commands.
     ```
 3. ** Run Manually Now:**
     ```termux
-    ./run```
+    ./run
+    ```
     
 ---
 
